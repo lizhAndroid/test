@@ -1,3 +1,5 @@
+package euler;
+
 public class SummationOfPrimes {
     public static Boolean isPrime(int value) {
         Boolean flag = true;

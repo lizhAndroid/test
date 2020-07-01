@@ -1,3 +1,5 @@
+package euler;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,3 +1,5 @@
+package euler;
+
 import sun.rmi.log.LogInputStream;
 
 import java.util.ArrayList;

@@ -1,3 +1,5 @@
+package euler;
+
 import java.math.BigInteger;
 
 /**
@@ -13,8 +15,6 @@ public class FactorialDigitSum {
             temp = BigInteger.valueOf(i);
             b = b.multiply(temp);
         }
-
-        System.out.println(b);
         int res = 0;
         BigInteger qu[] = new BigInteger[2];
         while (b.compareTo(new BigInteger("0")) != 0) {

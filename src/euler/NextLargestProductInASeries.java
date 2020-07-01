@@ -1,3 +1,5 @@
+package euler;
+
 public class NextLargestProductInASeries {
 
 

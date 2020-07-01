@@ -1,3 +1,5 @@
+package euler;
+
 public class SmallestMultiple {
     public static boolean evenlyDivisible(int number){
         boolean flag=false;

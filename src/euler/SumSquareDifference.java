@@ -1,3 +1,5 @@
+package euler;
+
 public class SumSquareDifference {
    static int sumOfSquare = 0;
     static int squareOfSum = 0;

@@ -1,3 +1,5 @@
+package euler;
+
 public class ThreeOrFive {
 
     public static void main(String[] args) {

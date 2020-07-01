@@ -1,3 +1,5 @@
+package euler;
+
 public class SpecialPythagoreanTriplet {
     public static boolean isPythagorean(int a, int b, int c) {
         boolean flag = false;

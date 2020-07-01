@@ -1,3 +1,5 @@
+package euler;
+
 /**
  * Created by xiaohei on 2019/9/4 0004    14:28.
  */
