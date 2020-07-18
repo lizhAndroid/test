@@ -3,21 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2e3edd6d-6489-4ffd-a7d7-18df42779c81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/FactorialDigitSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactorialDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/FactorialDigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HighlyDivisibleTriangularNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/HighlyDivisibleTriangularNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LargeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/LargeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LargestPalindromeProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/LargestPalindromeProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LargestPrimeFactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/LargestPrimeFactor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NextLargestProductInASeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/NextLargestProductInASeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PowerDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/PowerDigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SmallestMultiple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/SmallestMultiple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpecialPythagoreanTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/SpecialPythagoreanTriplet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SumSquareDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/SumSquareDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SummationOfPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/SummationOfPrimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TenThousandAndOnePrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/TenThousandAndOnePrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeOrFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/euler/ThreeOrFive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +28,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JSON2EXCEL" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.LongestCollatzSequence">
+  <component name="RunManager" selected="Application.PlalindromeNumber">
+    <configuration name="IntegerReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.IntegerReverse" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestCollatzSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="euler.LongestCollatzSequence" />
       <module name="test" />
@@ -63,23 +62,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="euler.PowerDigitSum" />
+    <configuration name="PlalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.PlalindromeNumber" />
       <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpecialPythagoreanTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="euler.SpecialPythagoreanTriplet" />
-      <module name="test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SummationOfPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="euler.SummationOfPrimes" />
-      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,13 +82,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TheSumOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.TheSumOfTwoNumbers" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PlalindromeNumber" />
+        <item itemvalue="Application.IntegerReverse" />
+        <item itemvalue="Application.TheSumOfTwoNumbers" />
         <item itemvalue="Application.LongestCollatzSequence" />
         <item itemvalue="Application.TenThousandAndOnePrime" />
-        <item itemvalue="Application.SummationOfPrimes" />
-        <item itemvalue="Application.SpecialPythagoreanTriplet" />
-        <item itemvalue="Application.PowerDigitSum" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +122,7 @@
       <workItem from="1578892750159" duration="633000" />
       <workItem from="1578962790603" duration="867000" />
       <workItem from="1593569810095" duration="6598000" />
+      <workItem from="1595052103373" duration="6085000" />
     </task>
     <task id="LOCAL-00001" summary="力扣三道题">
       <created>1573724247204</created>
@@ -130,40 +135,65 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="力扣三道题" />
     <option name="LAST_COMMIT_MESSAGE" value="力扣三道题" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1593584316937">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="408" height="466" key="DebuggerActiveHint" timestamp="1595057521098">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="408" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1595057521098" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1595057839074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595057839074" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593584316937" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1593584316937">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1595057839074">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595057839074" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593584316937" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1593584316937">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1595057839074">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595057839074" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593584316937" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1593584316937">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1595057839074">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595057839074" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593584316937" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1595057555423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595057555423" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1595057555422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595057555422" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1595057555422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595057555422" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1595057555423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595057555423" />
   </component>
 </project>
