@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e3edd6d-6489-4ffd-a7d7-18df42779c81" name="Default Changelist" comment="最长序列">
+    <list default="true" id="2e3edd6d-6489-4ffd-a7d7-18df42779c81" name="Default Changelist" comment="力扣三道题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/HighlyDivisibleTriangularNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/LargeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/LargestPalindromeProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/LargestPrimeFactor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/NextLargestProductInASeries.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/PowerDigitSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/SmallestMultiple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/SpecialPythagoreanTriplet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/SumSquareDifference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/SummationOfPrimes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/TenThousandAndOnePrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/ThreeOrFive.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +39,13 @@
       <recent name="javastudy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SynDemo">
-    <configuration name="LockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastudy.LockTest" />
+  <component name="RunManager" selected="Application.MergeTwoArray">
+    <configuration name="AddOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.AddOne" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javastudy.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LockTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastudy.LockTest2" />
+    <configuration name="MergeTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MergeTwoArray" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javastudy.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestCollatzSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="euler.LongestCollatzSequence" />
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.RemoveElement" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="euler.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastudy.SynDemo" />
+    <configuration name="ResearchInsertIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ResearchInsertIndex" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javastudy.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,20 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TenThousandAndOnePrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="euler.TenThousandAndOnePrime" />
+    <configuration name="SqrtX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SqrtX" />
       <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SynDemo" />
-        <item itemvalue="Application.LockTest2" />
-        <item itemvalue="Application.LockTest" />
-        <item itemvalue="Application.LongestCollatzSequence" />
-        <item itemvalue="Application.TenThousandAndOnePrime" />
+        <item itemvalue="Application.MergeTwoArray" />
+        <item itemvalue="Application.AddOne" />
+        <item itemvalue="Application.SqrtX" />
+        <item itemvalue="Application.ResearchInsertIndex" />
+        <item itemvalue="Application.RemoveElement" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +134,8 @@
       <workItem from="1593569810095" duration="6729000" />
       <workItem from="1593741688686" duration="1372000" />
       <workItem from="1595310516902" duration="3535000" />
+      <workItem from="1596264833802" duration="3987000" />
+      <workItem from="1596354266163" duration="12941000" />
     </task>
     <task id="LOCAL-00001" summary="力扣三道题">
       <created>1573724247204</created>
@@ -160,19 +155,20 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="力扣三道题" />
@@ -188,25 +184,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593743037659" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1595312277514">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="746" height="210" key="GridCell.Tab.0.bottom" timestamp="1596381638677">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="746" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596381638677" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1595312277514">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="746" height="210" key="GridCell.Tab.0.center" timestamp="1596381638677">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="746" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596381638677" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1595312277514">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="746" height="210" key="GridCell.Tab.0.left" timestamp="1596381638677">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="746" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596381638677" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1595312277514">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="746" height="210" key="GridCell.Tab.0.right" timestamp="1596381638677">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="746" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596381638677" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1596355064524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596355064524" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1593594719305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593594719305" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1596362906685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596362906685" />
   </component>
 </project>
