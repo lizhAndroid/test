@@ -3,7 +3,7 @@ package leetcode;
 import java.util.*;
 
 /**
- * 删除排序数组中的重复项
+ * 26.删除排序数组中的重复项
  *
  * @author xiaohei
  * @date 2020年 08月02日 16:11:50

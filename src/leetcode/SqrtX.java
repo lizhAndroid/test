@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * x 的平方根
+ * 69.x 的平方根
  *
  * @author xiaohei
  * @date 2020年 08月02日 17:57:26
