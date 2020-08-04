@@ -36,23 +36,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode" />
       <recent name="javastudy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddStrings">
-    <configuration name="AddOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.AddOne" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FrogJunp">
     <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.AddStrings" />
       <module name="test" />
@@ -79,6 +67,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Fibonacci" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrogJunp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.FrogJunp" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.MergeTwoArray" />
       <module name="test" />
@@ -92,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SqrtX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.SqrtX" />
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrogJunp" />
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.AddStrings" />
         <item itemvalue="Application.AlternatinBits" />
         <item itemvalue="Application.MergeTwoArray" />
-        <item itemvalue="Application.AddOne" />
-        <item itemvalue="Application.SqrtX" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +137,8 @@
       <workItem from="1595310516902" duration="3535000" />
       <workItem from="1596264833802" duration="3987000" />
       <workItem from="1596354266163" duration="13610000" />
-      <workItem from="1596467248396" duration="1956000" />
+      <workItem from="1596467248396" duration="2372000" />
+      <workItem from="1596551883252" duration="3638000" />
     </task>
     <task id="LOCAL-00001" summary="力扣三道题">
       <created>1573724247204</created>
@@ -166,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596383158298</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="力扣">
+      <created>1596469324896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596469324896</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,48 +197,48 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="力扣三道题" />
     <MESSAGE value="最长序列" />
-    <MESSAGE value="力扣" />
     <MESSAGE value="加注释" />
-    <option name="LAST_COMMIT_MESSAGE" value="加注释" />
+    <MESSAGE value="力扣" />
+    <option name="LAST_COMMIT_MESSAGE" value="力扣" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="12" key="CommitChangelistDialog2" timestamp="1596383156848">
+    <state x="446" y="12" key="CommitChangelistDialog2" timestamp="1596469323651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="446" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596383156848" />
+    <state x="446" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596469323651" />
     <state x="558" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593594715190" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593743037659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593743037659" />
-    <state width="738" height="207" key="GridCell.Tab.0.bottom" timestamp="1596467952260">
+    <state width="738" height="207" key="GridCell.Tab.0.bottom" timestamp="1596555572953">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596467952260" />
+    <state width="738" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596555572953" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
-    <state width="738" height="207" key="GridCell.Tab.0.center" timestamp="1596467952259">
+    <state width="738" height="207" key="GridCell.Tab.0.center" timestamp="1596555572953">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596467952259" />
+    <state width="738" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596555572953" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
-    <state width="738" height="207" key="GridCell.Tab.0.left" timestamp="1596467952259">
+    <state width="738" height="207" key="GridCell.Tab.0.left" timestamp="1596555572952">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596467952259" />
+    <state width="738" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596555572952" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
-    <state width="738" height="207" key="GridCell.Tab.0.right" timestamp="1596467952259">
+    <state width="738" height="207" key="GridCell.Tab.0.right" timestamp="1596555572953">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596467952259" />
+    <state width="738" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596555572953" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1596355064524">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596355064524" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1596383160332">
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1596469329056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596383160332" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596469329056" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593594719305" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1596362906685">
       <screen x="0" y="0" width="1536" height="824" />
