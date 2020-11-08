@@ -31,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/lizhihang/springboot/spring-boot-api-project-seed" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/javastudy/eight4" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -39,14 +39,17 @@
       <recent name="leetcode" />
       <recent name="javastudy" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\SideOccupation\Project\JavaProject\test\src\javastudy\eight4" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.FrogJunp">
-    <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.AddStrings" />
+  <component name="RunManager" selected="Application.EightPuzzle (1)">
+    <configuration name="Eight (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javastudy.eight3.Eight" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="javastudy.eight3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlternatinBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.AlternatinBits" />
+    <configuration name="EightPuzzle (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javastudy.eight4.EightPuzzle" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="javastudy.eight4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Fibonacci" />
+    <configuration name="EightPuzzle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javastudy.eight2.EightPuzzle" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="javastudy.eight2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrogJunp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.FrogJunp" />
+    <configuration name="EightPuzzleAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javastudy.eight.EightPuzzleAlgorithm" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="javastudy.eight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.MergeTwoArray" />
+    <configuration name="eight_figure_puzzle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javastudy.eight4.eight_figure_puzzle" />
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="javastudy.eight4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FrogJunp" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.AddStrings" />
-        <item itemvalue="Application.AlternatinBits" />
-        <item itemvalue="Application.MergeTwoArray" />
+        <item itemvalue="Application.EightPuzzle (1)" />
+        <item itemvalue="Application.eight_figure_puzzle" />
+        <item itemvalue="Application.EightPuzzleAlgorithm" />
+        <item itemvalue="Application.Eight (1)" />
+        <item itemvalue="Application.EightPuzzle" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +141,13 @@
       <workItem from="1596264833802" duration="3987000" />
       <workItem from="1596354266163" duration="13610000" />
       <workItem from="1596467248396" duration="2372000" />
-      <workItem from="1596551883252" duration="3638000" />
+      <workItem from="1596551883252" duration="3679000" />
+      <workItem from="1596635988362" duration="5607000" />
+      <workItem from="1599359965541" duration="626000" />
+      <workItem from="1602766039529" duration="241000" />
+      <workItem from="1602766966341" duration="240000" />
+      <workItem from="1602767249701" duration="102000" />
+      <workItem from="1604819229791" duration="12212000" />
     </task>
     <task id="LOCAL-00001" summary="力扣三道题">
       <created>1573724247204</created>
@@ -175,74 +184,111 @@
       <option name="project" value="LOCAL" />
       <updated>1596469324896</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="力扣 递归">
+      <created>1596556045334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596556045335</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="力扣三道题" />
     <MESSAGE value="最长序列" />
     <MESSAGE value="加注释" />
     <MESSAGE value="力扣" />
-    <option name="LAST_COMMIT_MESSAGE" value="力扣" />
+    <MESSAGE value="力扣 递归" />
+    <option name="LAST_COMMIT_MESSAGE" value="力扣 递归" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="12" key="CommitChangelistDialog2" timestamp="1596469323651">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1604820704667">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="446" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596469323651" />
-    <state x="558" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593594715190" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593743037659">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593743037659" />
-    <state width="738" height="207" key="GridCell.Tab.0.bottom" timestamp="1596555572953">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604820704667" />
+    <state x="446" y="12" key="CommitChangelistDialog2" timestamp="1596556043753">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596555572953" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
-    <state width="738" height="207" key="GridCell.Tab.0.center" timestamp="1596555572953">
+    <state x="446" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596556043753" />
+    <state width="745" height="233" key="GridCell.Tab.0.bottom" timestamp="1604845194891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596555572953" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
-    <state width="738" height="207" key="GridCell.Tab.0.left" timestamp="1596555572952">
+    <state width="745" height="233" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604845194891" />
+    <state width="745" height="233" key="GridCell.Tab.0.center" timestamp="1604845194891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596555572952" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
-    <state width="738" height="207" key="GridCell.Tab.0.right" timestamp="1596555572953">
+    <state width="745" height="233" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604845194891" />
+    <state width="745" height="233" key="GridCell.Tab.0.left" timestamp="1604845194890">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="738" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596555572953" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595312277514" />
+    <state width="745" height="233" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604845194890" />
+    <state width="745" height="233" key="GridCell.Tab.0.right" timestamp="1604845194891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="233" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604845194891" />
+    <state width="739" height="258" key="GridCell.Tab.1.bottom" timestamp="1596641953692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="739" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596641953692" />
+    <state width="739" height="258" key="GridCell.Tab.1.center" timestamp="1596641953692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="739" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596641953692" />
+    <state width="739" height="258" key="GridCell.Tab.1.left" timestamp="1596641953692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="739" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596641953692" />
+    <state width="739" height="258" key="GridCell.Tab.1.right" timestamp="1596641953692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="739" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596641953692" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1596355064524">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596355064524" />
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1596469329056">
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2" timestamp="1596556047399">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596469329056" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593594719305" />
+    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596556047399" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1596362906685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596362906685" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604824842910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604824842910" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/StrStr.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/StrStr.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
