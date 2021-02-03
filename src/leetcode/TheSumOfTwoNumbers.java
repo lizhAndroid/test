@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 力扣--两数之和
+ * 力扣--1.两数之和
  */
 public class TheSumOfTwoNumbers {
     public static int[] sum(int[] nums, int target) {

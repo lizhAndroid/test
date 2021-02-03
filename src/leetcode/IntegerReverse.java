@@ -1,7 +1,7 @@
 package leetcode;
 
 /**
- * 力扣--整数翻转
+ * 力扣--7.整数翻转
  */
 public class IntegerReverse {
     public static int reverse(int x){

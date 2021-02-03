@@ -2,7 +2,7 @@ package leetcode;
 
 /**
  * Created by xiaohei
- * 猜数字
+ * Lcp 01.猜数字
  */
 public class GuessNumber {
     private static int[] guess = new int[]{2, 2, 3};

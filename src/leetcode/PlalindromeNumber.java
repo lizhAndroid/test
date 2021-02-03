@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 回文数
+ * 9.回文数
  */
 public class PlalindromeNumber {
     public static boolean isPalindrome(int x) {

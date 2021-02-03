@@ -2,7 +2,7 @@ package leetcode;
 
 /**
  * Created by xiaohei
- * 宝石与石头
+ * 771.宝石与石头
  */
 public class GemsAndStones {
 
